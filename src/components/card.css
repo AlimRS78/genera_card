@@ -1,0 +1,17 @@
+.card-box{
+    display: flex;
+    background-color: #596164;
+    width: 300px;
+    border-radius: 4px;
+    flex-direction: column;
+}
+
+img{
+    width: inherit;
+    height: 200px;
+    border-radius: 4px;
+}
+
+.info{
+    padding-bottom: 5px;
+}

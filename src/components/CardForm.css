@@ -1,0 +1,26 @@
+#form{
+    background-color: black;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+label{
+    text-align: left;
+}
+
+input{
+    height: 30px;
+}
+
+#checkBox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#description{min-height: 80px;}
